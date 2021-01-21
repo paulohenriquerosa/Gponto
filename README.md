@@ -44,7 +44,7 @@
 
 Gponto is an application for managing working hours in factories. You will be able to register the entry and exit times and check when you should return according to the defined scale.
 
-To see the **mobile client**, click here: [GPonto Mobile](https://github.com/paulohenriquerosa/gobarber-mobile)
+To see the **mobile client**, click here: [GPonto Mobile](https://github.com/cigarratech/gponto-mobile)
 
 ## 🚀 Technologies
 
