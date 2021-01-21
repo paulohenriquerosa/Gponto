@@ -1,5 +1,5 @@
 <h1 align="center">
-  <img alt="Logo" src="https://github.com/paulohenriquerosa/Gponto/blob/main/img/logo.png" width="200px">
+  <img alt="Logo" src="https://github.com/paulohenriquerosa/Gponto/blob/main/img/logo.png" height="150px">
 </h1>
 
 <h3 align="center">
