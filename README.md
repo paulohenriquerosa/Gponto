@@ -1,5 +1,5 @@
 <h1 align="center">
-  <img alt="Logo" src="https://github.com/paulohenriquerosa/gobarber-mobile/blob/master/img/logo.png" width="200px">
+  <img alt="Logo" src="https://github.com/paulohenriquerosa/Gponto/blob/main/img/logo.png" width="200px">
 </h1>
 
 <h3 align="center">
@@ -37,7 +37,7 @@
 </p>
 
 <p align="center">
-  <img alt="Layout" height="450" src="https://github.com/paulohenriquerosa/gobarber-mobile/blob/master/img/mobile.png">
+  <img alt="Layout"  src="https://github.com/paulohenriquerosa/Gponto/blob/main/img/banner.png">
 </p>
 
 ## 💇🏻‍♂️ About the project
